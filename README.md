@@ -24,6 +24,7 @@ It integrates motor driver (L298N), ESP32, and battery power source to control m
 
 📱 Blynk IoT App Configurations
 
-the virtual pins connection 
-[web console](
+here the data streams and dashboard connection 
+[web console](https://github.com/Thivagar28/Smart-wifi-rover/blob/main/app-interface/data-streams.png)
+[web dashboard](
 
