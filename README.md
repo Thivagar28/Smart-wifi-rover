@@ -10,4 +10,4 @@ It integrates motor driver (L298N), ESP32, and battery power source to control m
 
 🔌 Here the Circuit Diagram for the project 
 
-[circuit diagram](
+[circuit diagram](https://github.com/Thivagar28/Smart-wifi-rover/blob/main/circuit-diagram/car-ckt.png)
