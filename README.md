@@ -6,7 +6,7 @@ Wi-Fi controlled car using ESP32 with Blynk IOT app
 
 This project demonstrates an IoT-based Wi-Fi-controlled car using the ESP32 microcontroller.
 The car can be operated through a smartphone app or web interface using Wi-Fi communication.
-It integrates motor driver (L298N), ESP32, and battery power source to control motion in all directions.
+It integrates motor driver (L298N), ESP32, and IR sensor to control motion in all directions.
 
 🔌 Here the Circuit Diagram for the project 
 
@@ -20,7 +20,9 @@ It integrates motor driver (L298N), ESP32, and battery power source to control m
 
 3. The microcontroller reads the virtual pin’s value and drives the L298N motor driver accordingly.
 
-4. Each button corresponds to Forward, Backward, Left, Right, or Stop motion.
+4. If someone's is standing behind the car the IR sensor detects automatically and the car moves from the obstacles.
+   
+5. Each button corresponds to Forward, Backward, Left, Right, or Stop motion.
 
 📱 Blynk IoT App Configurations
 
@@ -36,7 +38,15 @@ here the data streams and dashboard connection
 
 📷 Design pictures:
 
+[photo](https://github.com/Thivagar28/Smart-wifi-rover/blob/main/output/Screenshot%202025-09-12%20030253.png)
 
 
+🙌 Credits
+
+Developed by Thivagar Mugil
+
+Department of Electronics and Communication Engineering
+
+National Engineering College
 
 
