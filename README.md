@@ -24,9 +24,12 @@ It integrates motor driver (L298N), ESP32, and battery power source to control m
 
 📱 Blynk IoT App Configurations
 
-here the data streams and dashboard connection 
+here the data streams and dashboard connection
+
 [web console](https://github.com/Thivagar28/Smart-wifi-rover/blob/main/app-interface/data-streams.png)
 
 [web dashboard](https://github.com/Thivagar28/Smart-wifi-rover/blob/main/app-interface/web-dash-board.png)
+
+💻 Arduino / ESP32 Code:
 
 
