@@ -11,3 +11,19 @@ It integrates motor driver (L298N), ESP32, and battery power source to control m
 🔌 Here the Circuit Diagram for the project 
 
 [circuit diagram](https://github.com/Thivagar28/Smart-wifi-rover/blob/main/circuit-diagram/car-ckt.png)
+
+⚙️ Working Principle
+
+1. The ESP32 connects to Wi-Fi and links with the Blynk Cloud.
+
+2. When you press a virtual button in the Blynk App, a command is sent to ESP32.
+
+3. The microcontroller reads the virtual pin’s value and drives the L298N motor driver accordingly.
+
+4. Each button corresponds to Forward, Backward, Left, Right, or Stop motion.
+
+📱 Blynk IoT App Configurations
+
+the virtual pins connection 
+[web console](
+
